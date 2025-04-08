@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.784, 35.548]
+      },
+      "properties": {
+        "id": 1909246936718127113,
+        "author_id": 1221499955782848515,
+        "created_at": "2025-04-07T14:08:36+00:00",
+        "text": "@AmericanAir How about helping us understand when 4162 will\nDepart   It’s like clockwork  every flight delayed",
+        "sentiment": "negative",
+        "location": "Haneda Airport (Tokyo, Japan)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.9672, -31.9403]
+      },
+      "properties": {
+        "id": 1909246355131752717,
+        "author_id": 1191146970548703232,
+        "created_at": "2025-04-07T14:06:17+00:00",
+        "text": "@Lu_Lu619 Traveling can get you fired, 4 hours, plus her flight got delayed by HOURS.",
+        "sentiment": "negative",
+        "location": "Perth Airport (Western Australia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.1753, -33.9399]
+      },
+      "properties": {
+        "id": 1909245743048573332,
+        "author_id": 934804294699585536,
+        "created_at": "2025-04-07T14:03:51+00:00",
+        "text": "@isitso15 @kuruvi_vedi TBH non ac buses by Ashok Leyland is not good for travel when bus is full, Ventilation is issue , bus is designed for AC has been used as non ac pathetic.",
+        "sentiment": "negative",
+        "location": "Sydney Airport (Sydney, Australia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3081, 28.4312]
+      },
+      "properties": {
+        "id": 1909245396221636760,
+        "author_id": 25726119,
+        "created_at": "2025-04-07T14:02:29+00:00",
+        "text": "Orlando International Airport Delayed Flight. https://t.co/QWdhUivQKN https://t.co/Eo5I1psb3x",
+        "sentiment": "negative",
+        "location": "Orlando International Airport (Florida, USA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.2390, -17.9500]
+      },
+      "properties": {
+        "id": 1909245322661863934,
+        "author_id": 3402740080,
+        "created_at": "2025-04-07T14:02:11+00:00",
+        "text": "@Canellelabelle All the issues Harry has had since his freedom flight \nMeghan has been in  center of it all! Sentebale will survive and thrive now that they don’t have to deal Harry and the baggage he has to drag with him.\nThe man has now lost everything from his Royal life but the title",
+        "sentiment": "negative",
+        "location": "Broome International Airport (Western Australia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4085, 33.9416]
+      },
+      "properties": {
+        "id": 1909244976325918853,
+        "author_id": 37895129,
+        "created_at": "2025-04-07T14:00:49+00:00",
+        "text": "@klm Just received a call from someone claiming to be “Merlin James” KM25307CS regarding compensation for lost baggage. He told me to download an app called WorldRemit—this sounds like a scam. Is this your process? If not, why is someone impersonating your staff?",
+        "sentiment": "negative",
+        "location": "Los Angeles International Airport (USA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.99153, 1.36442]
+      },
+      "properties": {
+        "id": 1909244756988776941,
+        "author_id": 800095026,
+        "created_at": "2025-04-07T13:59:56+00:00",
+        "text": "@MAS  MH714 from Bali to BOM via Malaysia is a nightmare. Delayed from 12:55PM to 1:20PM, stuck at Singapore since 3PM (now 8:50PM!) due to engine issues. Connecting flight to BOM also delayed. No clear updates, no help. We have emergencies! UNACCEPTABLE",
+        "sentiment": "negative",
+        "location": "Changi Airport (Singapore)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.8410, -37.6690]
+      },
+      "properties": {
+        "id": 1909243420956143877,
+        "author_id": 1884270051160633344,
+        "created_at": "2025-04-07T13:54:38+00:00",
+        "text": "@AltCryptoGems $RTX holding steady while the broader market panics—flight to safety or just delayed pain? In times like these, defense stocks often become the quiet winners. Eyes on Raytheon. \n\n$RTX proudly boasts of $14M+ raised and still counting!\n\n🌐 https://t.co/k7lqXZbSx9 | @remittix | https://t.co/l0HOqk7mja",
+        "sentiment": "negative",
+        "location": "Melbourne Airport (Victoria, Australia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.3644, 25.2487]
+      },
+      "properties": {
+        "id": 1909243314781454713,
+        "author_id": 462347431,
+        "created_at": "2025-04-07T13:54:12+00:00",
+        "text": "@RavenHaven01 @danglishly @BenZeisloft @RonFilipkowski Americans cannot comment on any other countries when their own children can't even go to school without fear of being gunned down. Multiple nations across the world now issue travel warnings for your \"great\" country.",
+        "sentiment": "negative",
+        "location": "Dubai International Airport (UAE)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.1175, -27.3842]
+      },
+      "properties": {
+        "id": 1909242327282876648,
+        "author_id": 25415585,
+        "created_at": "2025-04-07T13:50:17+00:00",
+        "text": "Greetings from CVG, this week's work adventure requires a couple of flights...we're off to a roaring start with my 1st flight delayed 1 hour and 35 minutes 🙄...what is my final destination? https://t.co/krijDjfLwV",
+        "sentiment": "negative",
+        "location": "Brisbane Airport (Queensland, Australia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.530, -34.945]
+      },
+      "properties": {
+        "id": 1909240938691502267,
+        "author_id": 1036888284604104706,
+        "created_at": "2025-04-07T13:44:46+00:00",
+        "text": "@BoeNYCxxx @Hotstuff91 Check out the airline policy for lost luggage, the airline workers won’t tell you your rights, but if u can find it in their policies, u should come out on top",
+        "sentiment": "negative",
+        "location": "Adelaide Airport (South Australia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3790, 37.6213]
+      },
+      "properties": {
+        "id": 1909239906896916736,
+        "author_id": 1542527752594767872,
+        "created_at": "2025-04-07T13:40:40+00:00",
+        "text": "@tinman197474747 @RSE_VB My delayed initial flight and short layover would disagree.",
+        "sentiment": "negative",
+        "location": "San Francisco International Airport (California, USA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.4695, -23.4356]
+      },
+      "properties": {
+        "id": 1909239473872707931,
+        "author_id": 1175973541843525637,
+        "created_at": "2025-04-07T13:38:57+00:00",
+        "text": "@repetitionofdeg Don't know but all depends if the flight is delayed even more",
+        "sentiment": "negative",
+        "location": "São Paulo/Guarulhos International Airport (Brazil)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.99153, 1.36442]
+      },
+      "properties": {
+        "id": 1909239426791710987,
+        "author_id": 1674728653031129089,
+        "created_at": "2025-04-07T13:38:45+00:00",
+        "text": "@makemytrip my singapore visa application is pending since 27th March 2025 and your customer care officials are not able to resolve the issue. The process was delayed from your end. My travel date is 13th April. Request urgent attention to the matter.",
+        "sentiment": "negative",
+        "location": "Changi Airport (Singapore)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.5358, -34.8121]
+      },
+      "properties": {
+        "id": 1909239094913249373,
+        "author_id": 1840074886649159680,
+        "created_at": "2025-04-07T13:37:26+00:00",
+        "text": "@SMoabj73723 @Lay105606016708 @_HalfBrain_ @FearedBuck Still racist like the ppl in Argentina it’s not a Chinese issue it’s a global issue. He’s kind enough to share his platform and make the ppl travel and experience the culture through the streams those few ppl should be ashamed.",
+        "sentiment": "negative",
+        "location": "Buenos Aires Ministro Pistarini Intl Airport (Argentina)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.385717, 35.773213]
+      },
+      "properties": {
+        "id": 1909238803858092289,
+        "author_id": 1714452313442766848,
+        "created_at": "2025-04-07T13:36:17+00:00",
+        "text": "@GordonMcmat6340 I feel you, it’s like waiting for a delayed flight. I once binge-watched a whole series while waiting for an update. Snacks definitely help the time pass.",
+        "sentiment": "negative",
+        "location": "Narita International Airport (Japan)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.2442, 34.4273]
+      },
+      "properties": {
+        "id": 1909238652158300378,
+        "author_id": 41571188,
+        "created_at": "2025-04-07T13:35:41+00:00",
+        "text": "@AlanMoore84 We're very sorry that you've had this experience, Alan. We'll pass on your comments but if you'd like to discuss this further, please complete the following form with your contact details:\u00a0https://t.co/WhaP4Ex1vf GM",
+        "sentiment": "negative",
+        "location": "Kansai International Airport (Osaka, Japan)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7781, 40.6413]
+      },
+      "properties": {
+        "id": 1909238266437513671,
+        "author_id": 1537245511,
+        "created_at": "2025-04-07T13:34:09+00:00",
+        "text": "@DDC2 The alternative is swallowing up land currently used for other purposes (food, energy, travel, recreation, goods production and storage etc) to continue low density devt where ‘devs and other vested interests….’ etc\nDemand is an issue currently ignored.",
+        "sentiment": "negative",
+        "location": "John F. Kennedy International Airport (New York, USA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4543, 51.4700]
+      },
+      "properties": {
+        "id": 1909238004931010694,
+        "author_id": 1175973541843525637,
+        "created_at": "2025-04-07T13:33:06+00:00",
+        "text": "@repetitionofdeg My 2 hour 10 min. Layover has now become 90 minutes with flight now delayed til 11:22 A",
+        "sentiment": "negative",
+        "location": "Heathrow Airport (London, UK)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0052, 42.3656]
+      },
+      "properties": {
+        "id": 1909238004452938159,
+        "author_id": 16718531,
+        "created_at": "2025-04-07T13:33:06+00:00",
+        "text": "✈️ What’s a few flights and long layovers when God’s got your back like a trusty travel pillow? Isn’t it a little ironic that the best insights often come while waiting for a delayed flight, as if the universe is saying, “Take a breather and reflect”? With humility and gratitude, https://t.co/HUl8js8mzP",
+        "sentiment": "negative",
+        "location": "Logan International Airport (Boston, USA)"
+      }
+    }
+  ]
+}

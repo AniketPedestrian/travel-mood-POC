@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Travel Mood Campaign POC</title>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet">
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { width: 100vw; height: 100vh; }
+    .tweet-popup {
+      font-family: Arial, sans-serif;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+    .tweet-popup strong { color: #333; }
+    .tweet-popup .sentiment-positive { color: green; }
+    .tweet-popup .sentiment-negative { color: red; }
+    .tweet-popup .sentiment-neutral { color: orange; }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoiYW5pa2V0Z3VuamFsIiwiYSI6ImNtOTc2cGYxbjA0MDQybXNidWlycndmdTQifQ.5XOIzOR_0irht40GvlxxJQ';
+
+  const map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v12',
+    center: [20, 20],
+    zoom: 1.5
+  });
+
+  // Load tweets GeoJSON
+  fetch('corrected_tweets_geojson_fixed.json')
+    .then(res => res.json())
+    .then(data => {
+      data.features.forEach(feature => {
+        const coordinates = feature.geometry.coordinates;
+        const { text, sentiment, location } = feature.properties;
+
+        // Define marker color by sentiment
+        const color = sentiment === 'positive' ? '#2ecc71' :
+                      sentiment === 'negative' ? '#e74c3c' : '#f39c12';
+
+        // Add marker
+        new mapboxgl.Marker({ color: color })
+          .setLngLat(coordinates)
+          .setPopup(
+            new mapboxgl.Popup({ offset: 25 })
+              .setHTML(`
+                <div class="tweet-popup">
+                  <strong>Tweet:</strong> ${text}<br>
+                  <strong>Sentiment:</strong> <span class="sentiment-${sentiment}">${sentiment.charAt(0).toUpperCase() + sentiment.slice(1)}</span><br>
+                  <strong>Location:</strong> ${location}
+                </div>`)
+          )
+          .addTo(map);
+      });
+    });
+</script>
+
+</body>
+</html>
